@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+*.jpeg
+*.jpg
+*.png
+.python-version
