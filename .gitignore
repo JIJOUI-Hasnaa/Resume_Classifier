@@ -1,0 +1,23 @@
+
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+#
+*.pkl
+
+# 
+*.jpeg
+*.jpg
+*.png
+
+
+.env
+.env.*
+!.env.example
+
+# python vers
+.python-version
